@@ -1,0 +1,6 @@
+[book]
+authors = ["Justus Kuhlmann"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Datalad Code-Along"
