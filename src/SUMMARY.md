@@ -1,5 +1,6 @@
 # Summary
 
 [Setup](./setup.md)
-- [Part 1: Basic usage](./basic.md)
-- [Part 2: Cluster usage](./cluster.md)
+
+- [Basic usage](./basic.md)
+- [Cluster usage](./cluster.md)
