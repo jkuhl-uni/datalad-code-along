@@ -64,7 +64,7 @@ python3 ./script.py test-data/data1.out ./plot1.pdf
 ```
 Now it works!
 We can have a look at the plot. it should look something like this:
-...
+![figure](./figs/plot1.png)
 
 we have changed the dataset `analysis`. So datalad should also include these changes:
 ```bash
