@@ -39,7 +39,7 @@ cd analysis
 Imagine you already have some kind of script, that you have written. An already prepared example can be downloaded from here:
 
 ```bash
-wget -O script.py https://uni-muenster.sciebo.de/s/TNOWDVwdou1GPwE/download
+wget -O script.py https://raw.githubusercontent.com/jkuhl-uni/datalad-code-along/master/src/files/script.py
 ```
 
 By downloading it, we have changed something in a DataLad-tracked folder. Analogous to a git-repository, we commit the changes:
